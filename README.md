@@ -80,10 +80,11 @@ To substitute your own user/pass for a given environment, make a copy of .env.ex
 
 ## [Download Liquibase CLI](https://www.liquibase.org/download)
 
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][1][![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2][![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][3][![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][4][![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][5]
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][1][![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2][![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][3][![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][4][![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][5][![website](https://icons.iconarchive.com/icons/creative-freedom/shimmer/48/Globe-icon.png)][6]
 
 [1]: https://twitter.com/liquibase
 [2]: https://www.linkedin.com/company/liquibase
 [3]: https://stackoverflow.com/tags/liquibase/
 [4]: https://github.com/liquibase/liquibase
 [5]: https://www.youtube.com/channel/UC5qMsRjObu685rTBq0PJX8w
+[6]: https://icons.iconarchive.com/icons/creative-freedom/shimmer/48/Globe-icon.png
